@@ -1,0 +1,25 @@
+/*
+Theme Name: Zillah Child Theme
+Description: Child theme for Zillah
+Template: zillah
+Version: 1.0
+*/
+
+@import url("file:///C|/Users/Malene Bille/Documents/Sites/wp-content/themes/zillah/style.css");
+
+/* Add your custom css below
+-------------------------------------------------------------- */
+
+.header-inner-top {
+	background: #a3816a;
+	
+}
+
+.main-navigation li a {
+	color: white;
+}
+
+.header-inner-site-branding.header-logo-wrap-single {
+	background-image: url(file:///C|/Users/Malene%20Bille/Documents/Sites/wp-content/themes/zillah-child/thor-prof.png);
+	background-size: contain;
+}
